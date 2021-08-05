@@ -1,0 +1,4 @@
+name: DiscordTerminal
+version: ${project.version}
+api-version: 1.13
+main: de.amin.discordterminal.DiscordTerminal

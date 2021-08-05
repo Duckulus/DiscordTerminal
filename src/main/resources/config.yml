@@ -1,0 +1,10 @@
+url: "dummy.org"
+prefix: "[CONSOLE] "
+events:
+  chat: true
+  join: true
+  leave: true
+  death: true
+  command: true
+  shutdown: true
+  startup: true
