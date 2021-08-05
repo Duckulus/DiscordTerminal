@@ -28,3 +28,4 @@ Next you'll need to Configurate the Plugin. After loading the Plugin at least on
 
 # Credits
 - [Webhook Builder by k3kdude](https://gist.github.com/k3kdude/fba6f6b37594eae3d6f9475330733bdb)
+- [Craftatar Minecraft Head API](https://crafatar.com/)
