@@ -55,7 +55,7 @@ public final class DiscordTerminal extends JavaPlugin {
         if (!URL.equals("dummy.org")) {
             if(config.getBoolean("events.startup")){
                 DiscordWebhook webhook = new DiscordWebhook(URL);
-                webhook.setContent(PREFIX + "Server Starting...");
+                webhook.setContent(PREFIX + "Server stopping...");
                 try {
                     webhook.execute();
                 } catch (IOException e) {
